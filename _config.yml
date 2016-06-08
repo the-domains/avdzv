@@ -1,0 +1,28 @@
+name: avdzv
+favicon: null
+layout_spectrum: 0.26322405063547194
+typography_spectrum: 0.9439734034240246
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8465830835048109
+  lightness: 0.9686575208324939
+  saturation: 0.869595562806353
+  rhythmicContrast: 0.8503116115462035
+purpose: []
